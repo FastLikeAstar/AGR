@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dd1anw35l13kw"]
+
+[ext_resource type="Script" path="res://level/Distance.gd" id="1_uau60"]
+
+[node name="Distance" type="Node"]
+script = ExtResource("1_uau60")
